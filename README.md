@@ -1,4 +1,4 @@
-# glimonitor
+# glicControl
 
 A new Flutter module project.
 
